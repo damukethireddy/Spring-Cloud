@@ -1,0 +1,10 @@
+package com.damo.ssldemo.controller;
+@RestController
+class SecuredServerController{
+     
+    @RequestMapping("/secured")
+    public String secured(){
+        System.out.println("Inside secured()");
+        return "Hello user !!! : " + new Date();
+    }
+}

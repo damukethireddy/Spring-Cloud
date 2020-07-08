@@ -1,0 +1,5 @@
+package com.damo.ssldemo.config;
+
+public class SSlConfig {
+
+}

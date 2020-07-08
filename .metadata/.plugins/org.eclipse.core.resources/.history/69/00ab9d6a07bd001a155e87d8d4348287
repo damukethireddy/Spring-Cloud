@@ -1,0 +1,5 @@
+package com.damo.eureka.eurekaclientdemo;
+
+public class HelloController {
+
+}

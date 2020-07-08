@@ -1,0 +1,14 @@
+package com.damo.currency.conversion.service;
+
+import org.springframework.context.annotation.Configuration;
+import org.springframework.web.client.RestTemplate;
+
+@Configuration
+public class CurrenyConfig {
+
+	@Bean
+	public RestTemplate restTemplate() {
+		return new RestTemplate();
+	}
+	
+}

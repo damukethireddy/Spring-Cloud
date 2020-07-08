@@ -1,0 +1,3 @@
+Insert into exchange_value(id, currency_from, currency_to, conversion_multiple, port) values (10001, 'USD', 'INR', 65, 0);
+Insert into exchange_value(id, currency_from, currency_to, conversion_multiple, port) values (10002, 'USD', 'JPN', 100, 0);
+Insert into exchange_value(id, currency_from, currency_to, conversion_multiple, port) values (10003, 'USD', 'BRA', 4, 0);

@@ -1,0 +1,5 @@
+package com.damo.currency.conversion.service;
+
+public class CurrenyConfig {
+
+}
