@@ -5268,3 +5268,5 @@ java.io.FileNotFoundException: C:\Users\prahi001\.m2\repository\org\springframew
 2020-07-09 15:03:34,536 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-07-09 15:03:34,537 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-07-09 15:03:34,540 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-07-09 15:03:34,542 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-07-09 15:03:34,543 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\prahi001\SpringBoot\Asyc_Completable_future\Async-Service\Async-Service\src\test\resources
