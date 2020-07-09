@@ -1,0 +1,9 @@
+2020-07-09 14:23:11.231  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-2] c.d.example.async.service.AsyncService   : AsynchThread-2:  getEmployeeName Starts
+2020-07-09 14:23:11.232  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-1] c.d.example.async.service.AsyncService   : AsynchThread-1:  getEmployeeAddress Starts
+2020-07-09 14:23:11.232  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-3] c.d.example.async.service.AsyncService   : AsynchThread-3:  getEmployeePhone Starts
+2020-07-09 14:23:11.511  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-2] c.d.example.async.service.AsyncService   : employeeNameData, EmployeeNames [employeeNameList=[EmployeeName [firstName=Damodar, lastName=K], EmployeeName [firstName=Gagan, lastName=K]]]
+2020-07-09 14:23:11.512  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-3] c.d.example.async.service.AsyncService   : employeePhoneData, EmployeeAddress [phoneNumbers=[100000, 200000]]
+2020-07-09 14:23:11.512  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-1] c.d.example.async.service.AsyncService   : employeeAddressData, EmployeeAddresses [employeeAddressList=[EmployeeAddress [streetNo=111, houseNo=1111, zipCode=111111], EmployeeAddress [streetNo=222, houseNo=222, zipCode=222222]]]
+2020-07-09 14:23:12.512  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-3] c.d.example.async.service.AsyncService   : employeePhoneData completed
+2020-07-09 14:23:12.512  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-2] c.d.example.async.service.AsyncService   : employeeNameData completed
+2020-07-09 14:23:12.512  INFO [-,82e199d74783a837,82e199d74783a837,false] 7272 --- [ AsynchThread-1] c.d.example.async.service.AsyncService   : employeeAddressData completed

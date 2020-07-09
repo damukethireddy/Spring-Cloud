@@ -23,4 +23,6 @@ public class RestifulWebServicesApplication {
 		localeResolver.setDefaultLocale(Locale.US);
 		return localeResolver;
 	}
+	
+	
 }
